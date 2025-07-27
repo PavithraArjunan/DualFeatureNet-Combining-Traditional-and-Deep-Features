@@ -89,23 +89,6 @@ Model evaluated on **test set** using:
 | F1-Score  | Balance between precision and recall              |
 
 ---
-
-## Visualizations
-
-### Confusion Matrix
-
-Displays the class-wise performance of the model.
-
-![Confusion Matrix](confusion_matrix.png)
-
-### ROC Curve
-
-Shows the trade-off between true positive and false positive rates for each class.
-
-![ROC Curve](roc_curve.png)
-
----
-
 ## How to Run
 
 1. Clone the repo
