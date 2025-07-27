@@ -135,7 +135,6 @@ Shows the trade-off between true positive and false positive rates for each clas
 
 **Pavithra Arjunan**
 Machine Learning | Python | Deep Learning
-[LinkedIn](#) • [GitHub](#) • [Portfolio](#)
 
 ---
 
