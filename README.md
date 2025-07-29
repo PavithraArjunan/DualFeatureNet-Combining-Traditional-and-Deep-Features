@@ -20,7 +20,7 @@ This project combines Convolutional Neural Networks (CNN) with OpenCV ORB descri
 
 ##  Dataset
 
-- Custom image dataset stored in:
+- Kaggle image dataset stored in: : https://www.kaggle.com/datasets/rishabhrp/chest-x-ray-dataset
 ```
 
 /split\_dataset/
